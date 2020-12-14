@@ -566,3 +566,23 @@ svg circle:nth-child(2){
 	font-size: 20px;
 	transition: .5s;
 }
+
+@media screen and (max-width: 640px){
+h1.skillsm,.lang{
+    font-size: 30px;
+}
+}
+
+@media screen and (max-width: 640px){
+.language {
+margin-left: 0;
+
+
+}
+}
+
+@media screen and (max-width: 640px){
+.container .col-md-6{
+	width: 50% !important;
+}
+}
